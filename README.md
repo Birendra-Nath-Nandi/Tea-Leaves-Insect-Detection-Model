@@ -1,1 +1,1 @@
-# Tea-Leaves-Insect-Detection-Model
+# Tea Leaves Insect Detection | Transfer learning Model
